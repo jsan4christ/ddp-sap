@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/208184/16839913e221413f88d5a167cab2b55c
+bundleId: https://api.rpubs.com/api/v1/document/208184/16839913e221413f88d5a167cab2b55c
+url: http://rpubs.com/sanjames/208184
+when: 1473516090.93075
